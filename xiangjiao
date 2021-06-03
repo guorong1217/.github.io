@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>香蕉手机</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div class="head-container">
+		<div class="head">
+            <div><img src="香蕉.png"></div>
+            <div><strong>XIANGJIAO</strong></div>
+		</div>
+		
+		<div><a href="index2.htm">个人及家庭产品</a></div>
+		<div>服务支持</div>
+		<div>合作伙伴与开发者</div>
+		<div><a href="index5.htm">关于香蕉</a></div>
+		<div><a href="index4.htm">香蕉俱乐部</a></div>
+	</div>
+	<div class="tupian">
+		<img src="图片111.jpg">
+	</div>
+	<div class="text"><strong>推荐信息</strong></div>
+	<div class="tupian1">
+		<img src="电视屏.jpg">
+		<img src="智能手表.jpg">
+	</div>
+	<div class="tupian2">
+		<img src="matebook电脑.jpg">
+		<img src="mate40.jpg">
+	</div>
+	<div class="tupian3">
+		<img src="下11.png">
+		<img src="下22.png">
+		<img src="下33.png">
+	</div>
+	<img class="tupian4" src="图1.png">
+
+	<div class="text1"><strong>新闻与活动</strong></div>
+	<div class="tupian5">
+		<img src="活动1.jpg">
+		<img src="活动2.jpg">
+		<img src="活动3.jpg">
+	</div>
+	<div class="lable">
+		<div class="label1">更多活动</div>
+		<div class="label2">更多新闻</div>
+	</div>
+	<div class="l">
+		<div class="last">
+			<div class="last-middle">
+				<div>关于华为</div>
+				<div>新闻与活动</div>
+				<div>发现</div>
+				<div>我们的产品</div>
+				<div>技术支持</div>
+			</div>
+		</div>
+		<div class="last-bottom">
+				<div>2021香蕉技术有限公司 粤A2-28374682号 粤公网安备 402847829429号</div>
+				<div>联系我们&nbsp;&nbsp;&nbsp;法律声明&nbsp;&nbsp;&nbsp;隐私保护&nbsp;&nbsp;&nbsp;除名查询</div>
+		</div>
+	</div>
+
+</body>
+</html>
